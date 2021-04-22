@@ -1,15 +1,10 @@
+jstephens-mbp.local
 
  NPM(K)    PM(M)      WS(M)     CPU(s)      Id  SI ProcessName
  ------    -----      -----     ------      --  -- -----------
-      0     0.00      34.86     899.14     785   1 Be Focused Pro
-      0     0.00      32.49     603.21    1203   1 Cisco AnyConnec
-      0     0.00     375.85   1,876.47     442   1 Google Chrome
-      0     0.00     218.69   2,711.38     586   1 Google Chrome H
-      0     0.00     221.85     548.40    4135   1 Google Chrome H
-      0     0.00     362.68   1,010.01    4173   1 Google Chrome H
-      0     0.00     100.66     534.22    5190   1 iTerm2
-      0     0.00      36.38   1,465.86     606   1 Microsoft Teams
-      0     0.00     501.07   3,005.36     695   1 Microsoft Teams
-      0     0.00     103.22     681.61     694   1 OneDrive
-      0     0.00     174.03     505.75     437   1 Teams
+      0     0.00     332.27   1,099.20    4173   1 Google Chrome H
+      0     0.00      34.89   1,466.52     606   1 Microsoft Teams
+      0     0.00     317.36   1,990.47     442   1 Google Chrome
+      0     0.00     189.38   2,748.67     586   1 Google Chrome H
+      0     0.00     495.43   3,042.74     695   1 Microsoft Teams
 
