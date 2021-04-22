@@ -1,19 +1,19 @@
 # pshell
-> _Powershell Gung Fu_
+> _PowerShell Gung Fu_
 ___________________
 
 ## quick ref (noob style)
 ```bash
-# check shell options for PowerShell
+# Check shells for PowerShell
 cat /etc/shells
 
-# Switch to PowerShell shell from any shell (mac or linux)
+# Switch to PowerShell
 pwsh
 
-# Run PS script from terminal
+# Run PS script from other shell
 pwsh script.ps1
 
-# Run PS script from PowerShell shell
+# Run PS script from PowerShell
 ./script.ps1
  
 # toddler's first commands
