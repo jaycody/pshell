@@ -1,0 +1,13 @@
+
+ NPM(K)    PM(M)      WS(M)     CPU(s)      Id  SI ProcessName
+ ------    -----      -----     ------      --  -- -----------
+      0     0.00      33.98     860.16     785   1 Be Focused Pro
+      0     0.00      32.45     578.36    1203   1 Cisco AnyConnec
+      0     0.00     326.33   1,802.68     442   1 Google Chrome
+      0     0.00     210.16   2,612.11     586   1 Google Chrome H
+      0     0.00     173.32     544.34    4135   1 Google Chrome H
+      0     0.00     302.66     879.03    4173   1 Google Chrome H
+      0     0.00      63.36   1,465.59     606   1 Microsoft Teams
+      0     0.00     487.43   2,984.84     695   1 Microsoft Teams
+      0     0.00     105.86     653.47     694   1 OneDrive
+
