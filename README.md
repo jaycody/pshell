@@ -1,5 +1,5 @@
 # pshell
-> Powershell Gung Fu
+> _Powershell Gung Fu_
 ___________________
 
 ## quick ref (noob style)
